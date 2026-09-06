@@ -22,6 +22,7 @@ import plotly.express as px
 st.set_page_config(page_title="YouTube Channel Analytics", layout="wide")
 st.title("📊 YouTube Channel Analytics Dashboard")
 st.caption("Upload your channel's video data (CSV) to explore performance trends.")
+st.caption("Built by Shaik Shaheen")
 
 
 # ---------------------------------------------------------
